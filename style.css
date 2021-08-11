@@ -1,0 +1,34 @@
+body {
+    height: 100vh;
+}
+
+.one {
+    height: 100vh;
+}
+
+@font-face {
+    font-family: lora;
+    src: url(font/static/Lora-MediumItalic.ttf);
+}
+
+#post_logout {
+    background-image: url(image/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1,
+p {
+    font-family: "lora";
+}
+
+li {
+    list-style-type: none;
+}
+
+/* .bdcl
+{border: 3px solid black;} */
+
+#profile{
+    background-color: rgb(228, 220, 220) !important;
+}
